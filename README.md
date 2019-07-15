@@ -16,11 +16,9 @@ __as is this__
 
 you can have a bulleted list:
 - second
-<<<<<<< HEAD
-- fifth
-=======
-- fourth
->>>>>>> Second_branch
+- troisieme
+- quatrieme
+- fifth cuz i'm boring
 
 or a numbered list:
 1. first
