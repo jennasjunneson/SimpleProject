@@ -15,8 +15,8 @@ _this is italic_
 __as is this__
 
 you can have a bulleted list:
-- first
 - second
+- fifth
 
 or a numbered list:
 1. first
