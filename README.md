@@ -6,7 +6,7 @@
 
 ##this is a change
 
-blah change
+change
 
 *this is in italics*
 _this is italic_
@@ -18,7 +18,10 @@ you can have a bulleted list:
 - second
 - troisieme
 - quatrieme
-- fifth cuz i'm boring
+- third
+- fourth
+- fifth
+
 
 or a numbered list:
 1. first
