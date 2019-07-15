@@ -6,8 +6,10 @@
 
 ##this is a change
 
+blah change
+
 *this is in italics*
-_this is too_
+_this is italic_
 
 **this is boldface**
 __as is this__
