@@ -16,7 +16,11 @@ __as is this__
 
 you can have a bulleted list:
 - second
+<<<<<<< HEAD
 - fifth
+=======
+- fourth
+>>>>>>> Second_branch
 
 or a numbered list:
 1. first
