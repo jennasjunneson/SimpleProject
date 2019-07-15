@@ -6,7 +6,7 @@
 
 ##this is a change
 
-blah change
+change
 
 *this is in italics*
 _this is italic_
@@ -16,11 +16,10 @@ __as is this__
 
 you can have a bulleted list:
 - second
-<<<<<<< HEAD
-- fifth
-=======
+- third
 - fourth
->>>>>>> Second_branch
+- fifth
+
 
 or a numbered list:
 1. first
