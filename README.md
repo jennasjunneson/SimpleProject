@@ -30,9 +30,9 @@ for i in range(10):
     pass
 ```
 
-[my website](https://artisticchicago.com)
+[my website](http://artisticchicago.com)
 
-###I've Added this sub-subheading to show that I'm doing something different
+### I've Added this sub-subheading to show that I'm doing something different
 
 **Changes in the file**
 
