@@ -1,7 +1,7 @@
 
 The MIT License (MIT)
 
-Copyright (c) 2019 Jenna Sjunneson **Bold**
+Copyright (c) 2019 Jenna Sjunneson 
 
 ~~~strike through~~~
 
