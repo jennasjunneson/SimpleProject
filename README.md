@@ -4,7 +4,11 @@
 
 ### sub-subheading
 
+<<<<<<< HEAD
 ## this is another change blah
+=======
+## this is another change must use spaces after hashtags
+>>>>>>> master
 
 *this is in italics*
 _this is italic_
@@ -35,3 +39,4 @@ for i in range(10):
 ###I've Added this sub-subheading to show that I'm doing something different
 
 **Changes in the file**
+
