@@ -6,8 +6,6 @@
 
 ##this is a change
 
-change
-
 *this is in italics*
 _this is italic_
 
